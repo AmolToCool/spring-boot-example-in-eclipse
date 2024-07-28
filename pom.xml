@@ -26,6 +26,7 @@
        <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-war-plugin</artifactId>
+         <packaging>war</packaging>
         </plugin>
     </plugins>
   </build>
